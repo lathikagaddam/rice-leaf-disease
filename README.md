@@ -1,24 +1,35 @@
-# Rice Leaf Disease Detection
+## 🧠 Deep Learning Projects
 
-## Project Overview
-This project uses machine learning and deep learning to classify rice leaf images into three categories: Bacterial Leaf Blight, Brown Spot, and Leaf Smut.
+This section showcases my practical experience in Deep Learning using Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and image classification techniques.
 
-## Dataset
-- Total images: 120
-- Disease classes: 3
-- Image preprocessing: Resizing, RGB conversion, and normalization
+### 1. 🌿 Rice Leaf Disease Detection
 
-## Models Used
-- CNN (Convolutional Neural Network)
-- MobileNetV2 (Transfer Learning)
-- SVM (Support Vector Machine)
+**Objective:** Develop a Deep Learning model to identify and classify diseases in rice leaves using image data.
 
-## Results
-MobileNetV2 achieved the highest test accuracy of **91.67%**, followed by CNN at 79.17% and SVM at 75%.
+**Key Activities:**
+- Image Dataset Collection and Preparation
+- Image Preprocessing and Resizing
+- Data Augmentation
+- Convolutional Neural Network (CNN)
+- Model Training and Validation
+- Image Classification
+- Model Performance Evaluation
 
-## Technologies Used
-Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Scikit-learn, and Jupyter Notebook.
+**Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib
 
-## Future Scope
-Integrate the selected MobileNetV2 model with FastAPI to provide rice leaf disease predictions through an API.# rice-leaf-disease
-A Deep learning project 
+### 2. 🔢 Handwritten Digit Prediction
+
+**Objective:** Build a Deep Learning model to recognize and predict handwritten digits (0–9) from image inputs.
+
+**Key Activities:**
+- Image Data Preprocessing
+- Image Normalization
+- Dataset Preparation
+- Artificial Neural Network / Deep Learning
+- Model Training and Testing
+- Digit Classification
+- Model Evaluation
+
+**Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib
+
+
